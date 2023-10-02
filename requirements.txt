@@ -1,6 +1,6 @@
 pandas
 numpy
 matplotlib
-seaborn
+seaborn==0.11.2
 scipy
 statistics
