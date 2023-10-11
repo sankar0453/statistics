@@ -1,6 +1,7 @@
 pandas
 numpy
 matplotlib
-seaborn==0.11.2
+seaborn==0.12.0
 scipy
 statistics
+ydata-profiling
